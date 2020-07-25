@@ -1,2 +1,2 @@
-# Instagram-Bot
-Python automated Instagram with multiple spam messages for twitch gamer
+# Media-Bot
+Python automation for your social media.
