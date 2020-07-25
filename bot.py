@@ -1,7 +1,16 @@
 #packages
 
+#should all of this be held within a class?
+
 #Insure user is logged in to instagram
 def login_verification():
+    #find discrete way to login to instagram
+    #pull username and password from a dictionary?
+    pass;
+
+#finds whats trending in a specific location
+#create a default zip code to find whats trendy in general
+def trendy_here():
     pass;
 
 #Search for keyword 
@@ -18,4 +27,8 @@ def dup_user():
 
 #Post one of the approved comments 
 def comment():
+    pass;
+
+#List of users to potentially follow to increase following.
+def follow_list():
     pass;
